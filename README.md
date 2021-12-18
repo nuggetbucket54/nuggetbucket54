@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Ryan
-- 👀 I’m interested in onions
-- 💞️ I’m looking to collaborate on random projects here and there
 - 📫 Reach me @nuggetbucket54#6543 on discord
 
 <!---
