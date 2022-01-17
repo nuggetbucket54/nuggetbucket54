@@ -1,6 +1,7 @@
-![Squiddy, a character made for a game jam](https://piskel-imgstore-b.appspot.com/img/244496ee-77e8-11ec-984d-5fb854fedde8.gif)
+![Squiddy, a character I made for a game jam](https://piskel-imgstore-b.appspot.com/img/244496ee-77e8-11ec-984d-5fb854fedde8.gif)
 
 - 👋 Hi, I’m Ryan
+- 🖥️ Interested in computers and technology in general. Proficient in Python and okay in HTML, CSS, and JavaScript
 - 📫 Reach me @nuggetbucket54#6543 on discord
 
 <!---
