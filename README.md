@@ -10,18 +10,28 @@
 - 📫 reach me at nuggetbucket54#6543 on discord!
 - 🛠️ trying my best to help as part of a tech team at an education non-profit
 
+<br>
 
 ## some neat stuff i've worked on
-> (will go about formatting this properly some time soon)
 - [Cardboard++](https://github.com/nuggetbucket54/moneymoneyvr) - an affordable and accessible vr headset based on arduino, cardboard, and some websockets
 - [Artly](https://github.com/CrisCodesCrap/WaffleHacksTeamCLNN) - an innovative art platform where users can share their own artwork and draw on others'
 - [Levelhead](https://github.com/nuggetbucket54/levelhead) - a basketball training app that tells users when they're tilting their heads too much while dribbling
 - [Nautical Twilight](https://github.com/SubwayMan/jamegam) - a really fun and tricky game where you traverse the oceans as an octupus to save your aquatic friends
-  - try out the game [here!](https://pixelpad.io/app/lfgzohcupbm/)
+  - try out the game right [here!](https://pixelpad.io/app/lfgzohcupbm/)
 
+<br>
 
-## underwhelming stats
+## underwhelming stats of me
 > i just think they're fun to look at lol
+
+<table align="center">
+  <td style="padding=0">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=nuggetbucket54&count_private=true&show_icons=true&theme=city_lights&hide_border=true"/>
+  </td>
+  <td style="padding=0"> 
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuggetbucket54&count_private=true&show_icons=true&theme=city_lights&hide_border=true&layout=compact"/>
+  </td>
+</table>
 
 <!---
 nuggetbucket54/nuggetbucket54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
