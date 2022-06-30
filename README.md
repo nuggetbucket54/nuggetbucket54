@@ -1,4 +1,6 @@
-<h1 align = "center"> nuggetbucket54 </h1>
+# nuggetbucket54
+
+>sometimes i try pretty hard and i still always suck
 
 ![Squiddy, a character I made for a game jam](https://piskel-imgstore-b.appspot.com/img/244496ee-77e8-11ec-984d-5fb854fedde8.gif)
 
