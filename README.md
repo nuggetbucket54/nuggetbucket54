@@ -22,7 +22,6 @@
 <br>
 
 ## underwhelming stats of me
-> i just think they're fun to look at lol
 
 <table align="center">
   <td style="padding=0">
