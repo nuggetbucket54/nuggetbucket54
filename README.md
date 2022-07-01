@@ -2,15 +2,15 @@
 
 > sometimes i try pretty hard and i still always suck
 
-![Squiddy, a character I made for a game jam](https://piskel-imgstore-b.appspot.com/img/244496ee-77e8-11ec-984d-5fb854fedde8.gif)
-
 - 👋 hi, I’m Ryan
 - 🌎 high school student based in Canada
 - 🧠 proficient at Python, alright at HTML, CSS, & JavaScript, very bad at C++ and Rust
 - 📫 reach me at nuggetbucket54#6543 on discord!
 - 🛠️ trying my best to help as part of a tech team at an education non-profit
 
-<br>
+<p align="center">
+  <img src="https://piskel-imgstore-b.appspot.com/img/244496ee-77e8-11ec-984d-5fb854fedde8.gif"/>
+</p> 
 
 ## some neat stuff i've worked on
 - [Cardboard++](https://github.com/nuggetbucket54/moneymoneyvr) - an affordable and accessible vr headset based on arduino, cardboard, and some websockets
