@@ -21,7 +21,7 @@
 
 <br>
 
-## underwhelming stats of me
+## stats?
 
 <table align="center">
   <td style="padding=0">
