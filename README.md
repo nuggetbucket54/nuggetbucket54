@@ -1,6 +1,6 @@
 # nuggetbucket54
 
-> sometimes i try pretty hard and i still always suck
+> omg fortnite battle royale?!
 
 - 👋 hi, I’m Ryan
 - 🌎 high school student based in Canada
