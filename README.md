@@ -1,6 +1,6 @@
 # nuggetbucket54
 
-> omg fortnite battle royale?!
+> the ceiling is not my son but i will raise it
 
 - 👋 hi, I’m Ryan
 - 🌎 high school student based in Canada
