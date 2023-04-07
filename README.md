@@ -2,10 +2,10 @@
 
 > the ceiling is not my son but i will raise it
 
-- 👋 hi, I’m Ryan
-- 🌎 high school student based in Canada
-- 🧠 proficient at Python, alright at HTML, CSS, & JavaScript, very bad at C++ and Rust
-- 📫 reach me at nuggetbucket54#6543 on discord
+- 👋 Hey, I’m Ryan
+- 🌎 High school student based in Canada
+- 🧠 Proficient at Python, alright at HTML, CSS, & JavaScript, very bad at C++ and Rust
+- 📫 Reach me at nuggetbucket54#6543 on Discord!
 
 <p align="center">
   <img src="https://piskel-imgstore-b.appspot.com/img/244496ee-77e8-11ec-984d-5fb854fedde8.gif"/>
