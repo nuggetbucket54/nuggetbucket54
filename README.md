@@ -4,7 +4,7 @@
 
 - 👋 Hey, I’m Ryan
 - 🌎 High school student based in Canada
-- 🧠 Proficient at Python, alright at HTML, CSS, & JavaScript, very bad at C++ and Rust
+- 🧠 Proficient at Python, alright at HTML, CSS, & JavaScript, pretty bad at C++ and Rust lol
 - 📫 Reach me at nuggetbucket54#6543 on Discord!
 
 <p align="center">
