@@ -24,10 +24,10 @@
 
 <table align="center">
   <td style="padding=0">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=nuggetbucket54&count_private=true&show_icons=true&theme=discord_old_blurple"/>
+    <img height="200" src="https://github-readme-stats-fawn-theta-33.vercel.app/api?username=nuggetbucket54&count_private=true&show_icons=true&theme=discord_old_blurple"/>
   </td>
   <td style="padding=0"> 
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuggetbucket54&count_private=true&show_icons=true&theme=discord_old_blurple&layout=compact"/>
+    <img height="200" src="https://github-readme-stats-fawn-theta-33.vercel.app/api/top-langs/?username=nuggetbucket54&count_private=true&show_icons=true&theme=discord_old_blurple&layout=compact"/>
   </td>
 </table>
 
