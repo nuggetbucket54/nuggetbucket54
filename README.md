@@ -2,7 +2,7 @@
 
 > the ceiling is not my son but i will raise it
 
-- 👋 Hey, I’m Ryan
+- 👋 Hey, I’m Ryan :)
 - 🌎 High school student based in Canada
 - 🧠 Proficient at Python, alright at HTML, CSS, & JavaScript, pretty bad at C++ lol
 - 📫 Reach me at nuggetbucket54#6543 on Discord!
