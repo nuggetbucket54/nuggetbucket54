@@ -5,7 +5,7 @@
 - 👋 Hey, I’m Ryan :)
 - 🌎 High school student based in Canada
 - 🧠 Proficient at Python, alright at HTML, CSS, & JavaScript, pretty bad at C++ lol
-- 📫 Reach me at nuggetbucket54#6543 on Discord!
+- 📫 Reach me at nuggetbucket54 on Discord!
 
 <p align="center">
   <img src="https://piskel-imgstore-b.appspot.com/img/244496ee-77e8-11ec-984d-5fb854fedde8.gif"/>
