@@ -1,15 +1,16 @@
-# nuggetbucket54
+# Hey, I'm nuggetbucket54 👋
 
-> the ceiling is not my son but i will raise it
+> my ceiling is not my son but i will raise it
 
-- 👋 Hey, I’m Ryan :)
-- 🌎 High school student based in Canada
-- 🧠 Proficient at Python, alright at HTML, CSS, & JavaScript, pretty bad at C++ lol
-- 📫 Reach me at nuggetbucket54 on Discord!
+- Presidential Scholar award recipient @ UBC
+- Proficient at Python, alright at HTML, CSS, & JavaScript, pretty bad at C++ lol
+- Reach me at nuggetbucket54 on Discord!
+
 
 <p align="center">
   <img src="https://piskel-imgstore-b.appspot.com/img/244496ee-77e8-11ec-984d-5fb854fedde8.gif"/>
-</p> 
+</p>
+
 
 <!--
 ## some neat stuff i've worked on
@@ -20,7 +21,7 @@
   - try out the game right [here!](https://pixelpad.io/app/lfgzohcupbm/)
 --->
 
-<br>
+<br />
 
 <table align="center">
   <td style="padding=0">
