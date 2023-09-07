@@ -3,7 +3,7 @@
 > my ceiling is not my son but i will raise it
 
 - Presidential Scholar award recipient @ UBC
-- Proficient at Python, alright at HTML, CSS, & JavaScript, pretty bad at C++ lol
+- Proficient at Python, aight at HTML, CSS, & JavaScript, pretty bad at C++ lol
 - Reach me at nuggetbucket54 on Discord!
 
 
