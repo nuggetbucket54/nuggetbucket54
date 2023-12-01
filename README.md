@@ -1,6 +1,4 @@
-# Hey, I'm nuggetbucket54 👋
-
-> my ceiling is not my son but i will raise it
+# Hey, I'm Ryan 👋
 
 - Presidential Scholar award recipient @ UBC
 - Proficient at Python, aight at HTML, CSS, & JavaScript, pretty bad at C++ lol
