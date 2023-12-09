@@ -1,7 +1,7 @@
 # Hey, I'm Ryan 👋
 
 - Presidential Scholar award recipient @ UBC
-- Proficient at Python, aight at HTML, CSS, & JavaScript, pretty bad at C++ lol
+- Experience in Python, HTML, CSS, JavaScript, C/C++/Arduino
 - Reach me at nuggetbucket54 on Discord!
 
 
