@@ -4,11 +4,11 @@
 - Experience in Python, HTML, CSS, JavaScript, C/C++/Arduino
 - Reach me at nuggetbucket54 on Discord!
 
-
+<!--
 <p align="center">
   <img src="https://piskel-imgstore-b.appspot.com/img/244496ee-77e8-11ec-984d-5fb854fedde8.gif"/>
 </p>
-
+--->
 
 <!--
 ## some neat stuff i've worked on
