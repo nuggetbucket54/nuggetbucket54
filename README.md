@@ -2,7 +2,6 @@
 
 - Engineering Student @ UBC
 - Reach me at nuggetbucket54 on Discord
-- Experience with web development, microcontrollers, fluid simulations, and more...
 - Some notable languages, frameworks, and libraries I've worked with listed below:
 
 <br>
