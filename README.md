@@ -1,11 +1,21 @@
-# What's up, I'm Ryan👋👋
+# Hey, I'm Ryan👋👋
 
-- Engineering Student @ UBC
-- Reach me at nuggetbucket54 on Discord
-- Some languages, frameworks, libraries, and tools I've worked with listed below
+- 🛠️ First year engineering student @ UBC
+- 🔬 Playing around with different technologies to (hopefully) find something that excites me
+- 👨‍🍳 Cooking food and eating food
 
-<br>
+### What I do
+- Implementing backend in Go as part of student design team UBC UAS to interface with ArduPilot software for drone navgation 
+- Performing fluid simulations through FEniCS for airfoil optimization research at UBC
+- Developed Python webscrapers for blockchain research by Cornell University to compile information from online data aggregators 
+- Built/maintained front end of edtech startup EduBeyond's initial landing page using Next.js and Tailwind
 
+### Some projects
+- [CanSat](https://github.com/nuggetbucket54/CanSat) - Rocket payload that measures air pressure during freefall and seismic activity upon landing
+- [Cardboard++](https://github.com/nuggetbucket54/moneymoneyvr) - VR headset based with Arduino, cardboard, and some websockets
+- [Face tracker](https://github.com/nuggetbucket54/face-tracker) - Computer vision app that issues warning when users are skewing their head at a suboptimal angle
+
+<br> <br>
 
 <div align="center" markdown="1">
   
@@ -27,6 +37,7 @@
   ![Node.Js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Next.Js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 </div>
 
 
@@ -38,16 +49,6 @@
   ![Three.Js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 </div>
 
-
-<div align="center" markdown="1">
-  
-  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-  ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  
-</div>
 
 <!--
 <p align="center">
