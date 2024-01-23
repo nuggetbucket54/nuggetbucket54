@@ -5,7 +5,7 @@
 - 👨‍🍳 Cooking food and eating food
 
 ### What I do
-- Implementing backend in Go as part of student design team UBC UAS to interface with ArduPilot software for drone navgation 
+- Implementing backend in Go as part of student design team UBCUAS to interface with ArduPilot software for drone navgation 
 - Performing fluid simulations through FEniCS for airfoil optimization research at UBC
 - Developed Python webscrapers for blockchain research by Cornell University to compile information from online data aggregators 
 - Built/maintained front end of edtech startup EduBeyond's initial landing page using Next.js and Tailwind
