@@ -1,7 +1,7 @@
 # What's up, I'm Ryan👋👋
 
 - Engineering Student @ UBC
-- Reach me at nuggetbucket54 on Discord!
+- Reach me at nuggetbucket54 on Discord
 - Experience in web development, computer vision, simulations, and more
 - Some notable languages, frameworks, and libraries I've worked with listed below:
 
