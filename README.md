@@ -4,11 +4,13 @@
 - 🔬 Playing around with different technologies to (hopefully) find something that excites me
 - 👨‍🍳 Cooking food and eating food
 
+<!--
 ### What I do
 - Implementing backend in Go as part of student design team UBCUAS to interface with ArduPilot software for drone navgation 
 - Performing fluid simulations through FEniCS for airfoil optimization research at UBC
 - Developed Python webscrapers for blockchain research by Cornell University to compile information from online data aggregators 
 - Built/maintained front end of edtech startup EduBeyond's initial landing page using Next.js and Tailwind
+--->
 
 ### Some projects
 - [CanSat](https://github.com/nuggetbucket54/CanSat) - Rocket payload that measures air pressure during freefall and seismic activity upon landing
