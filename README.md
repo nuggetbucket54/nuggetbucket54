@@ -1,7 +1,7 @@
 # Hey, I'm Ryan👋👋
 
-- 🛠️ First year engineering student @ UBC
-- ✈️ Implementing backend in Go as part of student design team UBCUAS to interface with ArduPilot software for drone navgation 
+- 🛠️ First year engineering student @ UBC (Presidential Scholar)
+- ✈️ Software Crew at UBC UAS and UBC Rocket
 - 🌊 Performing fluid simulations through FEniCS for airfoil optimization research at UBC
 
 <!--
