@@ -1,6 +1,6 @@
 # Hey, I'm Ryan👋👋
 
-- 🛠️ First year engineering student @ UBC
+- 🛠️ 2nd year engineering physics student @ UBC
 - ✈️ Software Crew at UBC UAS and UBC Rocket
 - 🌊 Performing fluid simulations through FEniCS for airfoil optimization research at UBC
 
