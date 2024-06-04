@@ -3,7 +3,6 @@
 - 🛠️ 2nd year engineering physics student @ UBC
 - 🌊 Research assistant for fluid simulations @ UBC
 - 🛩️ Software Crew @ UBC UAS and UBC Rocket
-- 💓 I love [coolmathgames](https://www.coolmathgames.com/profile/friendlychestnut774)
 
 <!--
 ### Some projects
