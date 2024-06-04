@@ -1,8 +1,9 @@
 # Hey, I'm Ryan👋👋
 
 - 🛠️ 2nd year engineering physics student @ UBC
-- ✈️ Software Crew at UBC UAS and UBC Rocket
-- 🌊 Performing fluid simulations through FEniCS for airfoil optimization research at UBC
+- 🛩️ Software Crew @ UBC UAS and UBC Rocket
+- 🌊 Research assistant for fluid simulations @ UBC
+- 💓 I love [coolmathgames](https://www.coolmathgames.com/profile/friendlychestnut774)
 
 <!--
 ### Some projects
