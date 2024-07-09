@@ -1,8 +1,11 @@
-# Hey, I'm Ryan👋👋
+Hey, I'm Ryan, a soon-to-be 2nd year Engineering Physics (think Electrical + Computer + Mechanical Engineering) student at the University of British Columbia! Throughout the years, I've accumulated a fairly respectable breadth of working experience: from more software-centric work like [drone-routing algorithms](https://github.com/ubcuas/Dubins-Path), to hardware projects like [satellite payloads](https://github.com/nuggetbucket54/CanSat), to even more artistic design work such as the modelling and design/development of my [personal website](https://ryancheng.vercel.app/).
 
-- 🛠️ 2nd year engineering physics student @ UBC
-- 🌊 Research assistant for fluid simulations @ UBC
-- 🛩️ Software Crew @ UBC UAS and UBC Rocket
+<br>
+
+Some things about me:
+- 😴 My hobbies include napping and hitting the snooze button
+- 🥔 I can make really tasty baked potatoes
+- 🏀 I'm a big basketball and football (soccer??) fan 
 
 <!--
 ### Some projects
@@ -10,7 +13,9 @@
 - 🥽 [Cardboard++](https://github.com/nuggetbucket54/moneymoneyvr) - VR headset based with Arduino, cardboard, and some websockets
 - 🧏🏻‍♂️ [Face tracker](https://github.com/nuggetbucket54/face-tracker) - Computer vision app that issues warning when users are skewing their head at a suboptimal angle
 --->
-<br> <br>
+<br>
+
+Stuff I have experience in (to varying degrees of proficiency):
 
 <div align="center" markdown="1">
   
