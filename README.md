@@ -4,7 +4,7 @@ Hey, I'm Ryan! A soon-to-be 2nd year Engineering Physics (think Electrical + Com
 
 Some things about me:
 - 😴 My hobbies include napping and hitting the snooze button
-- 🥔 I can make really tasty baked potatoes
+- 🥔 I can make really good baked potatoes
 - 🏀 I'm a big basketball and football (soccer??) fan 
 
 <!--
