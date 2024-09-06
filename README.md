@@ -1,4 +1,4 @@
-Hey, I'm Ryan! A soon-to-be 2nd year Engineering Physics (think Electrical + Computer + Mechanical Engineering) student at the University of British Columbia! Throughout the years, I've accumulated a fairly respectable breadth of working experience: from more software-centric work like [drone-routing algorithms](https://github.com/ubcuas/Dubins-Path), to hardware projects like [satellite payloads](https://github.com/nuggetbucket54/CanSat), to even more artistic design work such as the modelling and design/development of my [personal website](https://ryancheng.vercel.app/).
+Hey, I'm Ryan! A 2nd year Engineering Physics (think Electrical + Computer + Mechanical Engineering) student at the University of British Columbia! Throughout the years, I've accumulated a fairly respectable breadth of working experience: from more software-centric work like [drone-routing algorithms](https://github.com/ubcuas/Dubins-Path), to hardware projects like [satellite payloads](https://github.com/nuggetbucket54/CanSat), to even more artistic design work such as the modelling and design/development of my [personal website](https://ryancheng.vercel.app/).
 
 <br>
 
